@@ -39,3 +39,11 @@ centrifuge-chain/
 # Solidity
 /solidity
 /cfgBuilder/*.toml
+
+# Generated SBOM files
+*-sbom.spdx.json
+*-sbom.cdx.json
+*-source-sbom.spdx.json
+
+# Nix build output
+result
