@@ -1,3 +1,7 @@
+> **📋 Anonymized Fork Notice**
+> 
+> This repository is a fork of [ChainSafe/ChainBridge](https://github.com/ChainSafe/ChainBridge), modified to include Nix flakes for reproducible builds. The modifications enable hermetic, verifiable builds with SBOM generation and vulnerability scanning capabilities. This fork is anonymized for double-blind peer review purposes.
+
 # Archiving notice:
 
 This library is no longer in use and maintenance. All further development related to chainbridge will happen in the [new](https://github.com/ChainSafe/chainbridge-core) repo. More detailed information about chainbridge-core you can find in its readme or [Discussions](https://github.com/ChainSafe/chainbridge-core/discussions). 
